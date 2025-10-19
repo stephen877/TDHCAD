@@ -1,0 +1,10 @@
+App Store vs. Direct Download
+For both Linux and MS Windows, TdhCad can be obtained through either an app store or by directly downloading the software from the tdhcad.com webiste. This is an explanation of the implications of the different methods. 
+
+
+
+App Store: the download and installation is handled by the app store with the certifications used by the operating system. The installation should proceed without any notifications that the software comes from an unknown source (because the source is known to the os). The software and the data will be placed in a location determined by the os and will generally be isolated from using and use by other software. Theoretically, this provides increased security for the system. 
+
+
+
+Direct Download: the download and installation process must be handled by the user. The installation process may generate warnings that the software comes from an unknown source and require the user to take additional steps to authorize the installation (see Instructions). Additional security software on the computer may generate additional warnings, requirements or restrictions. The location for the software and the data will be determined by the user, with default options. Sharing data with other software will generally be allowed. 
